@@ -1,0 +1,99 @@
+18:13:07.920 I [Application] 程序版本：快照版 2.12.8.2 (403)
+18:13:07.941 I <Logger> [Logger] 开始轮转日志文件
+18:13:07.942 I [Application] 识别码：5D5E-2AE7-9799-5C0D，未解锁反馈主题
+18:13:07.942 I [Application] 程序路径：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+18:13:07.943 I [Application] 系统编码：gb2312 (936, GBK=True)
+18:13:07.944 I [Application] 管理员权限：True
+18:13:07.945 I [Application] 第一阶段加载用时：223 ms
+18:13:07.947 I <Logger> [Logger] PclLogger 日志初始化结束
+18:13:08.029 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+18:13:08.045 I [ModSecret] 刷新主题：0
+18:13:08.094 I [ModLoader] 加载器 Minecraft Folder List 状态改变：Loading
+18:13:08.095 I [FormMain] 第二阶段加载用时：139 ms
+18:13:08.103 I <L/Minecraft Folder List> [ModLoader] 加载器 Minecraft Folder List 状态改变：Finished
+18:13:08.250 I [FormMain] 从设置更新背景图片与标题栏样式
+18:13:08.304 I [FormMain] 窗口已置顶，位置：(510, 245), 900 x 550
+18:13:08.308 I <Animation> [ModAnimation] 动画线程开始
+18:13:08.309 I [FormMain] 第三阶段加载用时：62 ms
+18:13:08.322 I <Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*************\AppData\Roaming\.minecraft\
+18:13:08.371 I [ModLoader] 加载器 Loader Skin Ms 状态改变：Loading
+18:13:08.377 I <L/Loader Skin Ms> [ModLoader] 加载器 Loader Skin Ms 状态改变：Finished
+18:13:08.433 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+18:13:08.440 I [MySkin] 载入头像成功：Loader Skin Ms
+18:13:08.445 I [ModAnimation] 两个动画帧间隔 127 ms
+18:13:08.502 I <初始化> [ModJava] 缓存中有 7 个可用的 Java：
+18:13:08.503 I <初始化> [ModJava] - JRE 8 (8.0.51)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 17 (17.0.16)：C:\Users\*************\.jdks\ms-17.0.16\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 17 (17.0.15)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-snapshot\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 21 (21.0.9)：C:\Program Files\Microsoft\jdk-21.0.9.10-hotspot\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 24 (24.0.2)：C:\Users\*************\.jdks\openjdk-24.0.2\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 25 (25.0.1)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+18:13:08.505 I <初始化> [ModJava] - JDK 11 (11.0.30)：C:\Users\*************\.jdks\ms-11.0.30\bin\
+18:13:08.633 I <初始化> [ModLoader] 加载器 DlClientList Mojang 状态改变：Loading
+18:13:08.650 I <初始化> [ModLoader] 加载器 PCL 配置更新 状态改变：Loading
+18:13:08.650 I <L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+18:13:08.693 I <L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：37
+18:13:08.693 I <L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+18:13:08.756 I <Version Check> [ModMinecraft] 从版本 jar 中的 version.json 获取到版本号：26.1 Snapshot 3
+18:13:08.761 I <TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+18:13:08.761 I [ModMinecraft] 当前选择的 Minecraft 版本：C:\Users\*************\AppData\Roaming\.minecraft\versions\26.1-snapshot-3\
+18:13:08.765 I [PageLaunchLeft] 启动按钮：Minecraft 版本：C:\Users\*************\AppData\Roaming\.minecraft\versions\26.1-snapshot-3\
+18:13:08.769 I <TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+18:13:08.770 I [ModLoader] 加载器 登录 状态改变：Loading
+18:13:08.778 I <L/登录> [ModLaunch] 登录加载已开始
+18:13:08.781 I <L/登录> [ModLoader] 加载器 Loader Login Ms 状态改变：Loading
+18:13:08.784 I <L/Loader Login Ms> [ModLaunch] 登录方式：正版（zhx_0）
+18:13:08.786 I <L/Loader Login Ms> [ModLaunch] 无需登录，AccessToken 尚未过期
+18:13:08.786 I <L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/7/11 8:00:00 过期
+18:13:08.787 I <L/Loader Login Ms> [ModLoader] 加载器 Loader Login Ms 状态改变：Finished
+18:13:08.788 I <Telemetry> [ModMain] 匿名数据上报：启动
+18:13:08.795 I <L/登录> [ModLaunch] 登录加载已结束
+18:13:08.795 I <L/登录> [ModLoader] 加载器 登录 状态改变：Finished
+18:13:08.920 I <L/PCL 配置更新> [ModSecret] 本地公告编号：221，服务器公告：221|407|406|5|38，无需更新
+18:13:08.921 I <L/PCL 配置更新> [ModSecret] 本地配置版本号：37，服务器配置版本号：38，需要更新
+18:13:08.922 I <L/PCL 配置更新> [ModNet] 通过网络请求直接下载小文件：https://pcl2-server-1253424809.file.myqcloud.com/ServerConfig.json{CDN} → C:\Users\*************\AppData\Local\Temp\PCL\Cache\ServerConfig.json
+18:13:08.955 I <L/PCL 配置更新> [ModSecret] 重要等级 0，更新公告 True
+18:13:08.964 I <L/PCL 配置更新> [ModLoader] 加载器 启动器更新 状态改变：Loading
+18:13:08.968 I <L/PCL 配置更新> [ModLoader] 加载器 获取更新信息 状态改变：Loading
+18:13:08.969 I <L/PCL 配置更新> [ModLoader] 加载器 PCL 配置更新 状态改变：Finished
+18:13:09.028 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+18:13:09.087 I <L/获取更新信息> [ModSecret] 更新开始，静默：True，扩展名：.patch，下载目标：C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-748959\2.12.8.2.0.patch，URL：https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch，https://pcl2-server-1253424809.file.myqcloud.com/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch{CDN}
+18:13:09.088 I <L/获取更新信息> [ModLoader] 加载器 获取更新信息 状态改变：Finished
+18:13:09.093 I <L/获取更新信息> [ModLoader] 加载器 下载更新文件 状态改变：Loading
+18:13:09.102 I <L/下载 87> [ModNet] 开始清理下载缓存
+18:13:09.102 I <L/下载 87> [ModNet] 下载缓存已清理
+18:13:09.153 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：开始，起始点 0，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:13:09.377 I <L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：728ms，可优先使用官方源
+18:13:09.381 I <L/DlClientList Mojang> [ModLoader] 加载器 DlClientList Mojang 状态改变：Finished
+18:13:09.819 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：出错，IP：127.0.0.1：错误码 NotFound (404)，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:13:09.819 I <下载 87/92/93#> [ModNet]    在 PCL.ModNet.NetFile.Thread
+18:13:09.819 I <下载 87/92/93#> [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+18:13:09.826 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：下载源被禁用（0，Range 问题：False）：https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:13:09.826 W <下载 87/92/93#> [ModNet] 下载源 0 已被禁用：错误码 NotFound (404)，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:13:09.826 W <下载 87/92/93#> [ModNet]    在 PCL.ModNet.NetFile.Thread
+18:13:09.826 W <下载 87/92/93#> [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+18:13:09.843 I <下载 87/92/94#> [ModNet] 2.12.8.2.0.patch：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/patches/Snapshot%202.12.8.2%205930218fc4198e5076e6d9a9e10b06fb.patch?sign=1783678389-7037d484-0-8f71bab92bf88e9d638fce6b26f542a3
+18:13:09.876 I <下载 87/92/95#> [ModNet] 2.12.8.2.0.patch：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/patches/Snapshot%202.12.8.2%205930218fc4198e5076e6d9a9e10b06fb.patch?sign=1783678389-7037d484-0-8f71bab92bf88e9d638fce6b26f542a3
+18:13:09.912 I <下载 87/92/94#> [ModNet] 2.12.8.2.0.patch：文件大小 469464（458 K）
+18:13:10.020 I <NetManager StatRefresher> [ModNet] 速度下限已提升到 544 K
+18:13:10.046 I <下载 87/92/95#> [ModNet] 2.12.8.2.0.patch：已完成
+18:13:10.046 I <下载 87/92/95#> [ModLoader] 加载器 下载更新文件 状态改变：Finished
+18:13:10.049 I <下载 87/92/95#> [ModLoader] 加载器 安装更新 状态改变：Loading
+18:13:10.052 I <L/安装更新> [ModSecret] 应用补丁文件：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe + C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-748959\2.12.8.2.0.patch → C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\PCL\Plain Craft Launcher 2.exe
+18:13:10.053 I <L/安装更新> [MsDelta] 正在应用补丁：原始文件 C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe + 补丁文件 C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-748959\2.12.8.2.0.patch → 输出至 C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\PCL\Plain Craft Launcher 2.exe
+18:13:10.103 I <L/安装更新> [ModLoader] 加载器 安装更新 状态改变：Finished
+18:13:10.103 I <L/安装更新> [ModLoader] 加载器 启动器更新 状态改变：Finished
+18:13:10.112 I <NetManager StatRefresher> [ModNet] 速度下限已提升到 737 K
+18:13:13.277 I [ModAnimation] 两个动画帧间隔 110 ms
+18:13:13.473 I [ModAnimation] 两个动画帧间隔 126 ms
+18:13:13.618 I [ModAnimation] 两个动画帧间隔 123 ms
+18:13:13.940 I [ModAnimation] 两个动画帧间隔 162 ms
+18:13:14.825 I [ModAnimation] 两个动画帧间隔 175 ms
+18:13:14.855 I [ModAnimation] 两个动画帧间隔 739 ms
+18:13:17.564 I [ModAnimation] 两个动画帧间隔 134 ms
+18:13:17.663 I [ModAnimation] 两个动画帧间隔 102 ms
+18:13:17.909 I [ModAnimation] 两个动画帧间隔 101 ms
+18:13:18.014 I [ModAnimation] 两个动画帧间隔 106 ms
+18:13:18.124 I [ModAnimation] 两个动画帧间隔 110 ms
+18:13:18.295 I [ModAnimation] 两个动画帧间隔 105 ms
+18:15:43.542 I [ModAnimation] 两个动画帧间隔 217 ms

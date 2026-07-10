@@ -1,0 +1,111 @@
+18:12:18.620 I <Logger> [Logger] 开始轮转日志文件
+18:12:18.619 I [Application] 程序版本：快照版 2.12.8.2 (403)
+18:12:18.626 I <Logger> [Logger] PclLogger 日志初始化结束
+18:12:18.641 I [Application] 识别码：5D5E-2AE7-9799-5C0D，未解锁反馈主题
+18:12:18.641 I [Application] 程序路径：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+18:12:18.642 I [Application] 系统编码：gb2312 (936, GBK=True)
+18:12:18.643 I [Application] 管理员权限：True
+18:12:18.643 I [Application] 第一阶段加载用时：190 ms
+18:12:18.726 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+18:12:18.742 I [ModSecret] 刷新主题：0
+18:12:18.791 I [ModLoader] 加载器 Minecraft Folder List 状态改变：Loading
+18:12:18.791 I [FormMain] 第二阶段加载用时：138 ms
+18:12:18.801 I <L/Minecraft Folder List> [ModLoader] 加载器 Minecraft Folder List 状态改变：Finished
+18:12:18.957 I [FormMain] 从设置更新背景图片与标题栏样式
+18:12:19.015 I [FormMain] 窗口已置顶，位置：(510, 245), 900 x 550
+18:12:19.020 I <Animation> [ModAnimation] 动画线程开始
+18:12:19.020 I [FormMain] 第三阶段加载用时：67 ms
+18:12:19.032 I <Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*************\AppData\Roaming\.minecraft\
+18:12:19.080 I [ModLoader] 加载器 Loader Skin Ms 状态改变：Loading
+18:12:19.087 I <L/Loader Skin Ms> [ModLoader] 加载器 Loader Skin Ms 状态改变：Finished
+18:12:19.141 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+18:12:19.148 I [MySkin] 载入头像成功：Loader Skin Ms
+18:12:19.149 I [ModAnimation] 两个动画帧间隔 125 ms
+18:12:19.750 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+18:12:19.997 I <Version Check> [ModMinecraft] 从版本 jar 中的 version.json 获取到版本号：26.1 Snapshot 3
+18:12:20.002 I [ModMinecraft] 当前选择的 Minecraft 版本：C:\Users\*************\AppData\Roaming\.minecraft\versions\26.1-snapshot-3\
+18:12:20.012 I [PageLaunchLeft] 启动按钮：Minecraft 版本：C:\Users\*************\AppData\Roaming\.minecraft\versions\26.1-snapshot-3\
+18:12:20.018 I [ModLoader] 加载器 登录 状态改变：Loading
+18:12:21.921 I [ModAnimation] 两个动画帧间隔 271 ms
+18:12:21.945 I [ModAnimation] 两个动画帧间隔 1897 ms
+18:12:21.954 I <L/登录> [ModLaunch] 登录加载已开始
+18:12:21.955 I <L/登录> [ModLoader] 加载器 Loader Login Ms 状态改变：Loading
+18:12:21.958 I <L/Loader Login Ms> [ModLaunch] 登录方式：正版（zhx_0）
+18:12:21.961 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 1/6（刷新登录）
+18:12:21.963 I <初始化> [ModJava] 缓存中有 7 个可用的 Java：
+18:12:21.965 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+18:12:21.973 I <初始化> [ModJava] - JRE 8 (8.0.51)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+18:12:21.973 I <初始化> [ModJava] - JDK 17 (17.0.16)：C:\Users\*************\.jdks\ms-17.0.16\bin\
+18:12:21.973 I <初始化> [ModJava] - JDK 17 (17.0.15)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-snapshot\bin\
+18:12:21.973 I <初始化> [ModJava] - JDK 21 (21.0.9)：C:\Program Files\Microsoft\jdk-21.0.9.10-hotspot\bin\
+18:12:21.973 I <初始化> [ModJava] - JDK 24 (24.0.2)：C:\Users\*************\.jdks\openjdk-24.0.2\bin\
+18:12:21.974 I <初始化> [ModJava] - JDK 25 (25.0.1)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+18:12:21.974 I <初始化> [ModJava] - JDK 11 (11.0.30)：C:\Users\*************\.jdks\ms-11.0.30\bin\
+18:12:22.077 I <初始化> [ModLoader] 加载器 DlClientList Mojang 状态改变：Loading
+18:12:22.081 I <初始化> [ModLoader] 加载器 PCL 配置更新 状态改变：Loading
+18:12:22.082 I <L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+18:12:22.087 I <TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+18:12:22.094 I <TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+18:12:22.096 I <L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：37
+18:12:22.096 I <L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+18:12:22.097 I <Telemetry> [ModMain] 匿名数据上报：启动
+18:12:22.189 I <L/PCL 配置更新> [ModSecret] 本地公告编号：221，服务器公告：221|407|406|5|38，无需更新
+18:12:22.190 I <L/PCL 配置更新> [ModSecret] 本地配置版本号：37，服务器配置版本号：38，需要更新
+18:12:22.190 I <L/PCL 配置更新> [ModNet] 通过网络请求直接下载小文件：https://pcl2-server-1253424809.file.myqcloud.com/ServerConfig.json{CDN} → C:\Users\*************\AppData\Local\Temp\PCL\Cache\ServerConfig.json
+18:12:22.215 I <L/PCL 配置更新> [ModSecret] 重要等级 0，更新公告 True
+18:12:22.217 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+18:12:22.222 I <L/PCL 配置更新> [ModLoader] 加载器 启动器更新 状态改变：Loading
+18:12:22.228 I <L/PCL 配置更新> [ModLoader] 加载器 获取更新信息 状态改变：Loading
+18:12:22.229 I <L/PCL 配置更新> [ModLoader] 加载器 PCL 配置更新 状态改变：Finished
+18:12:22.340 I <L/获取更新信息> [ModSecret] 更新开始，静默：True，扩展名：.patch，下载目标：C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-793441\2.12.8.2.0.patch，URL：https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch，https://pcl2-server-1253424809.file.myqcloud.com/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch{CDN}
+18:12:22.345 I <L/获取更新信息> [ModLoader] 加载器 获取更新信息 状态改变：Finished
+18:12:22.350 I <L/获取更新信息> [ModLoader] 加载器 下载更新文件 状态改变：Loading
+18:12:22.362 I <L/下载 87> [ModNet] 开始清理下载缓存
+18:12:22.362 I <L/下载 87> [ModNet] 下载缓存已清理
+18:12:22.406 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：开始，起始点 0，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:12:22.719 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 2/6
+18:12:22.719 I [ModNet] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+18:12:22.984 I [ModNet] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+18:12:23.458 I <L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：1377ms，可优先使用官方源
+18:12:23.462 I <L/DlClientList Mojang> [ModLoader] 加载器 DlClientList Mojang 状态改变：Finished
+18:12:23.490 I [ModNet] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+18:12:23.905 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：出错，IP：127.0.0.1：错误码 NotFound (404)，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:12:23.905 I <下载 87/92/93#> [ModNet]    在 PCL.ModNet.NetFile.Thread
+18:12:23.905 I <下载 87/92/93#> [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+18:12:23.912 I <下载 87/92/93#> [ModNet] 2.12.8.2.0.patch：下载源被禁用（0，Range 问题：False）：https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:12:23.912 W <下载 87/92/93#> [ModNet] 下载源 0 已被禁用：错误码 NotFound (404)，https://github.com/Meloong-Git/PCL/raw/main/patches/Snapshot 2.12.8.2 5930218fc4198e5076e6d9a9e10b06fb.patch
+18:12:23.912 W <下载 87/92/93#> [ModNet]    在 PCL.ModNet.NetFile.Thread
+18:12:23.912 W <下载 87/92/93#> [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+18:12:23.933 I <下载 87/92/94#> [ModNet] 2.12.8.2.0.patch：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/patches/Snapshot%202.12.8.2%205930218fc4198e5076e6d9a9e10b06fb.patch?sign=1783678342-648dae44-0-7a73aa62f7867d1490888c31eabc197f
+18:12:23.989 I <下载 87/92/94#> [ModNet] 2.12.8.2.0.patch：文件大小 469464（458 K）
+18:12:24.072 I <NetManager StatRefresher> [ModNet] 速度下限已提升到 262 K
+18:12:24.094 I <下载 87/92/94#> [ModNet] 2.12.8.2.0.patch：已完成
+18:12:24.094 I <下载 87/92/94#> [ModLoader] 加载器 下载更新文件 状态改变：Finished
+18:12:24.096 I <下载 87/92/94#> [ModLoader] 加载器 安装更新 状态改变：Loading
+18:12:24.100 I <L/安装更新> [ModSecret] 应用补丁文件：C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe + C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-793441\2.12.8.2.0.patch → C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\PCL\Plain Craft Launcher 2.exe
+18:12:24.101 I <L/安装更新> [MsDelta] 正在应用补丁：原始文件 C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe + 补丁文件 C:\Users\*************\AppData\Local\Temp\PCL\TaskTemp\90-793441\2.12.8.2.0.patch → 输出至 C:\Users\*************\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\PCL\Plain Craft Launcher 2.exe
+18:12:24.155 I <L/安装更新> [ModLoader] 加载器 安装更新 状态改变：Finished
+18:12:24.156 I <L/安装更新> [ModLoader] 加载器 启动器更新 状态改变：Finished
+18:12:24.166 I <NetManager StatRefresher> [ModNet] 速度下限已提升到 372 K
+18:12:24.246 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 3/6
+18:12:24.247 I [ModNet] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+18:12:24.512 I [ModNet] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+18:12:25.014 I [ModNet] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+18:12:25.773 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 4/6
+18:12:25.774 I <L/Loader Login Ms> [ModNet] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 10000
+18:12:26.407 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 5/6
+18:12:26.407 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+18:12:26.673 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+18:12:27.176 I <L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 6/6
+18:12:27.176 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 25000
+18:12:27.430 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 25000
+18:12:27.944 I <L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/7/11 8:00:00 过期
+18:12:27.944 I <L/Loader Login Ms> [ModLoader] 加载器 Loader Login Ms 状态改变：Finished
+18:12:27.964 I <L/登录> [ModLaunch] 登录加载已结束
+18:12:27.964 I <L/登录> [ModLoader] 加载器 登录 状态改变：Finished
+18:12:39.957 I [ModAnimation] 两个动画帧间隔 156 ms
+18:12:40.073 I [ModAnimation] 两个动画帧间隔 116 ms
+18:12:40.811 I [ModAnimation] 两个动画帧间隔 398 ms
+18:12:40.991 I [ModAnimation] 两个动画帧间隔 111 ms
+18:12:41.312 I [ModAnimation] 两个动画帧间隔 255 ms
+18:13:05.424 I [ModAnimation] 两个动画帧间隔 101 ms
