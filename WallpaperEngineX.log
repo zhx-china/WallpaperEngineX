@@ -1,0 +1,728 @@
+[2026-07-02 20:34:47,334][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 20:34:47,334][INFO] 启动项不存在
+[2026-07-02 20:34:47,345][INFO] ✓ 注册表设置成功
+[2026-07-02 20:34:47,346][INFO] ========= Start =========
+[2026-07-02 20:34:47,458][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 20:34:47,460][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 20:34:47,461][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 20:34:54,121][INFO] ========== End ==========
+[2026-07-02 20:35:17,942][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 20:35:17,942][INFO] 启动项不存在
+[2026-07-02 20:35:17,949][INFO] ✓ 注册表设置成功
+[2026-07-02 20:35:17,949][INFO] ========= Start =========
+[2026-07-02 20:35:17,976][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 20:35:17,976][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 20:35:17,977][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 20:35:21,143][INFO] ========== End ==========
+[2026-07-02 20:35:30,978][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 20:35:30,978][INFO] 启动项不存在
+[2026-07-02 20:35:30,984][INFO] ✓ 注册表设置成功
+[2026-07-02 20:35:30,985][INFO] ========= Start =========
+[2026-07-02 20:35:31,010][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 20:35:31,011][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 20:35:31,011][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 20:35:38,917][INFO] ========== End ==========
+[2026-07-02 20:35:45,780][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 20:35:45,781][INFO] 启动项不存在
+[2026-07-02 20:35:45,787][INFO] ✓ 注册表设置成功
+[2026-07-02 20:35:45,787][INFO] ========= Start =========
+[2026-07-02 20:35:45,811][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 20:35:45,812][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 20:35:45,813][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 20:35:48,895][INFO] ========== End ==========
+[2026-07-02 21:18:42,528][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 21:18:42,528][INFO] 启动项不存在
+[2026-07-02 21:18:42,534][INFO] ✓ 注册表设置成功
+[2026-07-02 21:18:42,534][INFO] ========= Start =========
+[2026-07-02 21:18:42,566][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 21:18:42,567][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 21:18:42,567][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 21:18:45,533][INFO] 执行命令:
+[2026-07-02 21:18:45,533][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-02 21:18:46,557][INFO] 发送信息至Progman...
+[2026-07-02 21:18:46,557][INFO] 获取窗口
+[2026-07-02 21:18:46,559][INFO] 发现窗口,句柄136650
+[2026-07-02 21:18:49,677][INFO] 成功嵌入
+[2026-07-02 21:19:23,134][INFO] ========== End ==========
+[2026-07-02 23:35:25,073][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-02 23:35:25,079][INFO] 启动项不存在
+[2026-07-02 23:35:25,092][INFO] ✓ 注册表设置成功
+[2026-07-02 23:35:25,093][INFO] ========= Start =========
+[2026-07-02 23:35:25,221][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-02 23:35:25,224][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-02 23:35:25,224][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-02 23:35:31,672][INFO] ========== End ==========
+[2026-07-03 17:38:26,908][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 17:38:26,908][INFO] 启动项不存在
+[2026-07-03 17:38:26,919][INFO] ✓ 注册表设置成功
+[2026-07-03 17:38:26,919][INFO] ========= Start =========
+[2026-07-03 17:38:26,952][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 17:38:26,954][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 17:38:26,955][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 17:38:32,684][INFO] ========== End ==========
+[2026-07-03 17:39:11,221][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 17:39:11,222][INFO] 启动项不存在
+[2026-07-03 17:39:11,256][INFO] ✓ 注册表设置成功
+[2026-07-03 17:39:11,256][INFO] ========= Start =========
+[2026-07-03 17:39:11,324][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 17:39:11,327][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 17:39:11,329][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 17:39:19,388][INFO] ========== End ==========
+[2026-07-03 17:52:57,912][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 17:52:57,913][INFO] 启动项不存在
+[2026-07-03 17:52:57,919][INFO] ✓ 注册表设置成功
+[2026-07-03 17:52:57,920][INFO] ========= Start =========
+[2026-07-03 17:52:57,951][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 17:52:57,952][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 17:52:57,952][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 17:53:02,065][INFO] ========== End ==========
+[2026-07-03 17:59:09,511][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 17:59:09,511][INFO] 启动项不存在
+[2026-07-03 17:59:09,517][INFO] ✓ 注册表设置成功
+[2026-07-03 17:59:09,521][INFO] ========= Start =========
+[2026-07-03 17:59:09,550][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 17:59:09,550][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 17:59:09,551][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 17:59:21,167][INFO] ========== End ==========
+[2026-07-03 18:01:13,954][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:01:13,955][INFO] 启动项不存在
+[2026-07-03 18:01:13,962][INFO] ✓ 注册表设置成功
+[2026-07-03 18:01:13,962][INFO] ========= Start =========
+[2026-07-03 18:01:14,001][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:01:14,002][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:01:14,002][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:01:17,445][INFO] ========== End ==========
+[2026-07-03 18:01:25,317][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:01:25,318][INFO] 启动项不存在
+[2026-07-03 18:01:25,324][INFO] ✓ 注册表设置成功
+[2026-07-03 18:01:25,324][INFO] ========= Start =========
+[2026-07-03 18:01:25,353][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:01:25,353][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:01:25,354][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:01:30,684][INFO] ========== End ==========
+[2026-07-03 18:01:54,144][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:01:54,144][INFO] 启动项不存在
+[2026-07-03 18:01:54,151][INFO] ✓ 注册表设置成功
+[2026-07-03 18:01:54,151][INFO] ========= Start =========
+[2026-07-03 18:01:54,181][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:01:54,183][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:01:54,183][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:01:58,973][INFO] ========== End ==========
+[2026-07-03 18:02:23,358][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:02:23,359][INFO] 启动项不存在
+[2026-07-03 18:02:23,370][INFO] ✓ 注册表设置成功
+[2026-07-03 18:02:23,370][INFO] ========= Start =========
+[2026-07-03 18:02:23,477][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:02:23,478][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:02:23,479][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:02:26,817][INFO] ========== End ==========
+[2026-07-03 18:03:45,339][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:03:45,339][INFO] 启动项不存在
+[2026-07-03 18:03:45,354][INFO] ✓ 注册表设置成功
+[2026-07-03 18:03:45,354][INFO] ========= Start =========
+[2026-07-03 18:03:45,384][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:03:45,385][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:03:45,386][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:03:49,901][INFO] ========== End ==========
+[2026-07-03 18:03:57,123][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:03:57,124][INFO] 启动项不存在
+[2026-07-03 18:03:57,141][INFO] ✓ 注册表设置成功
+[2026-07-03 18:03:57,142][INFO] ========= Start =========
+[2026-07-03 18:03:57,181][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:03:57,181][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:03:57,182][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:03:59,833][INFO] ========== End ==========
+[2026-07-03 18:04:07,564][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:04:07,564][INFO] 启动项不存在
+[2026-07-03 18:04:07,570][INFO] ✓ 注册表设置成功
+[2026-07-03 18:04:07,570][INFO] ========= Start =========
+[2026-07-03 18:04:07,597][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:04:07,598][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:04:07,598][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:04:09,678][INFO] ========== End ==========
+[2026-07-03 18:04:44,408][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:04:44,408][INFO] 启动项不存在
+[2026-07-03 18:04:44,415][INFO] ✓ 注册表设置成功
+[2026-07-03 18:04:44,415][INFO] ========= Start =========
+[2026-07-03 18:04:44,443][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:04:44,444][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:04:44,444][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:04:47,714][INFO] ========== End ==========
+[2026-07-03 18:05:23,965][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:05:23,965][INFO] 启动项不存在
+[2026-07-03 18:05:23,971][INFO] ✓ 注册表设置成功
+[2026-07-03 18:05:23,971][INFO] ========= Start =========
+[2026-07-03 18:05:24,008][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:05:24,009][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:05:24,009][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:05:27,159][INFO] ========== End ==========
+[2026-07-03 18:05:38,181][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:05:38,181][INFO] 启动项不存在
+[2026-07-03 18:05:38,188][INFO] ✓ 注册表设置成功
+[2026-07-03 18:05:38,188][INFO] ========= Start =========
+[2026-07-03 18:05:38,220][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:05:38,221][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:05:38,221][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:05:41,171][INFO] ========== End ==========
+[2026-07-03 18:05:48,174][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 18:05:48,175][INFO] 启动项不存在
+[2026-07-03 18:05:48,185][INFO] ✓ 注册表设置成功
+[2026-07-03 18:05:48,185][INFO] ========= Start =========
+[2026-07-03 18:05:48,217][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 18:05:48,220][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 18:05:48,221][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 18:05:50,347][INFO] ========== End ==========
+[2026-07-03 19:52:23,912][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 19:52:23,913][INFO] 启动项不存在
+[2026-07-03 19:52:23,923][INFO] ✓ 注册表设置成功
+[2026-07-03 19:52:23,925][INFO] ========= Start =========
+[2026-07-03 20:23:44,661][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 20:23:44,662][INFO] 启动项不存在
+[2026-07-03 20:23:44,676][INFO] ✓ 注册表设置成功
+[2026-07-03 20:23:44,677][INFO] ========= Start =========
+[2026-07-03 20:23:44,782][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:23:44,785][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:23:44,787][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:23:46,261][INFO] ========== End ==========
+[2026-07-03 20:23:49,875][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 20:23:49,876][INFO] 启动项不存在
+[2026-07-03 20:23:49,884][INFO] ✓ 注册表设置成功
+[2026-07-03 20:23:49,885][INFO] ========= Start =========
+[2026-07-03 20:23:49,911][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:23:49,912][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:23:49,913][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:23:53,225][INFO] ========== End ==========
+[2026-07-03 20:24:24,688][INFO] C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-07-03 20:24:24,689][INFO] 启动项不存在
+[2026-07-03 20:24:24,697][INFO] ✓ 注册表设置成功
+[2026-07-03 20:24:24,697][INFO] ========= Start =========
+[2026-07-03 20:24:24,727][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:24:24,727][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:24:24,728][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:24:26,756][INFO] ========== End ==========
+[2026-07-03 20:47:45,165][INFO] ✓ 注册表设置成功
+[2026-07-03 20:47:45,167][INFO] ========= Start =========
+[2026-07-03 20:47:45,307][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:47:45,308][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:47:45,309][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:47:48,351][INFO] 执行命令:
+[2026-07-03 20:47:48,352][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:47:49,357][INFO] 发送信息至Progman...
+[2026-07-03 20:47:49,438][INFO] 获取窗口
+[2026-07-03 20:47:49,438][INFO] 发现窗口,句柄853526
+[2026-07-03 20:47:51,624][INFO] 成功嵌入
+[2026-07-03 20:47:51,897][INFO] 
+[2026-07-03 20:47:51,897][INFO] 关闭中...
+[2026-07-03 20:47:52,743][INFO] 执行命令:
+[2026-07-03 20:47:52,743][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:47:53,746][INFO] 发送信息至Progman...
+[2026-07-03 20:47:53,747][INFO] 获取窗口
+[2026-07-03 20:47:53,747][INFO] 发现窗口,句柄659036
+[2026-07-03 20:47:55,938][INFO] 成功嵌入
+[2026-07-03 20:47:56,579][INFO] 
+[2026-07-03 20:47:56,579][INFO] 关闭中...
+[2026-07-03 20:47:58,255][INFO] 
+[2026-07-03 20:47:58,256][INFO] 关闭中...
+[2026-07-03 20:48:00,423][INFO] 执行命令:
+[2026-07-03 20:48:00,423][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:48:01,426][INFO] 发送信息至Progman...
+[2026-07-03 20:48:01,426][INFO] 获取窗口
+[2026-07-03 20:48:01,426][INFO] 发现窗口,句柄1050166
+[2026-07-03 20:48:02,811][INFO] 
+[2026-07-03 20:48:02,811][INFO] 关闭中...
+[2026-07-03 20:48:03,529][INFO] 成功嵌入
+[2026-07-03 20:48:03,656][INFO] 执行命令:
+[2026-07-03 20:48:03,656][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:48:04,658][INFO] 发送信息至Progman...
+[2026-07-03 20:48:04,658][INFO] 获取窗口
+[2026-07-03 20:48:04,658][INFO] 发现窗口,句柄6884806
+[2026-07-03 20:48:05,751][INFO] 
+[2026-07-03 20:48:05,751][INFO] 关闭中...
+[2026-07-03 20:48:06,761][INFO] 成功嵌入
+[2026-07-03 20:48:08,609][INFO] 执行命令:
+[2026-07-03 20:48:08,609][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:48:09,612][INFO] 发送信息至Progman...
+[2026-07-03 20:48:09,612][INFO] 获取窗口
+[2026-07-03 20:48:09,612][INFO] 发现窗口,句柄1377814
+[2026-07-03 20:48:10,438][INFO] 
+[2026-07-03 20:48:10,438][INFO] 关闭中...
+[2026-07-03 20:48:12,773][INFO] 执行命令:
+[2026-07-03 20:48:12,773][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-03 20:48:13,775][INFO] 发送信息至Progman...
+[2026-07-03 20:48:13,776][INFO] 获取窗口
+[2026-07-03 20:48:13,776][INFO] 发现窗口,句柄2098048
+[2026-07-03 20:48:15,261][INFO] 
+[2026-07-03 20:48:15,261][INFO] 关闭中...
+[2026-07-03 20:48:15,916][INFO] 成功嵌入
+[2026-07-03 20:48:16,398][INFO] 
+[2026-07-03 20:48:16,398][INFO] 关闭中...
+[2026-07-03 20:48:17,425][INFO] 
+[2026-07-03 20:48:17,425][INFO] 关闭中...
+[2026-07-03 20:54:36,012][INFO] 配置命令行...
+[2026-07-03 20:54:36,013][INFO] ✓ 注册表设置成功
+[2026-07-03 20:54:36,014][INFO] ========= Start =========
+[2026-07-03 20:54:36,044][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:54:36,045][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:54:36,046][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:54:36,782][INFO] ========== End ==========
+[2026-07-03 20:54:46,788][INFO] 配置命令行...
+[2026-07-03 20:54:46,790][INFO] ✓ 注册表设置成功
+[2026-07-03 20:54:46,791][INFO] ========= Start =========
+[2026-07-03 20:54:46,817][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:54:46,817][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:54:46,818][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:54:55,093][INFO] ========== End ==========
+[2026-07-03 20:56:35,677][INFO] 配置命令行...
+[2026-07-03 20:56:35,678][INFO] ✓ 注册表设置成功
+[2026-07-03 20:56:35,679][INFO] ========= Start =========
+[2026-07-03 20:56:35,705][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:56:35,706][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:56:35,707][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:56:39,609][INFO] ========== End ==========
+[2026-07-03 20:58:55,866][INFO] 配置命令行...
+[2026-07-03 20:58:55,867][INFO] ✓ 注册表设置成功
+[2026-07-03 20:58:55,867][INFO] ========= Start =========
+[2026-07-03 20:58:55,910][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:58:55,911][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:58:55,911][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:59:06,762][INFO] ========== End ==========
+[2026-07-03 20:59:28,453][INFO] 配置命令行...
+[2026-07-03 20:59:28,454][INFO] ✓ 注册表设置成功
+[2026-07-03 20:59:28,455][INFO] ========= Start =========
+[2026-07-03 20:59:28,481][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 20:59:28,482][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 20:59:28,482][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 20:59:32,375][INFO] ========== End ==========
+[2026-07-03 21:00:19,573][INFO] 配置命令行...
+[2026-07-03 21:00:19,574][INFO] ✓ 注册表设置成功
+[2026-07-03 21:00:19,575][INFO] ========= Start =========
+[2026-07-03 21:00:19,604][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 21:00:19,605][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 21:00:19,605][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 21:00:35,516][INFO] ========== End ==========
+[2026-07-03 21:00:59,932][INFO] 配置命令行...
+[2026-07-03 21:00:59,933][INFO] ✓ 注册表设置成功
+[2026-07-03 21:00:59,933][INFO] ========= Start =========
+[2026-07-03 21:00:59,960][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-03 21:00:59,960][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-03 21:00:59,961][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-03 21:01:16,763][INFO] ========== End ==========
+[2026-07-09 21:33:00,847][INFO] 配置命令行...
+[2026-07-09 21:33:00,852][INFO] ✓ 注册表设置成功
+[2026-07-09 21:33:00,853][INFO] ========= Start =========
+[2026-07-09 21:33:00,966][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-09 21:33:00,968][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-09 21:33:00,969][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-09 21:33:03,931][INFO] 
+[2026-07-09 21:33:03,931][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.mp4
+[2026-07-09 21:33:10,968][INFO] 执行命令:
+[2026-07-09 21:33:10,968][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-09 21:33:11,985][INFO] 发送信息至Progman...
+[2026-07-09 21:33:12,054][INFO] 获取窗口
+[2026-07-09 21:33:12,054][INFO] 未找到!
+[2026-07-09 21:33:39,225][INFO] ========== End ==========
+[2026-07-09 21:55:19,320][INFO] Configuring command line...
+[2026-07-09 21:55:19,333][INFO] Registry settings saved
+[2026-07-09 22:00:18,648][INFO] 配置命令行...
+[2026-07-09 22:00:18,649][INFO] ✓ 注册表设置成功
+[2026-07-09 22:00:18,649][INFO] ========= Start =========
+[2026-07-09 22:00:18,761][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-09 22:00:18,763][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-09 22:00:18,764][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-09 22:00:22,627][INFO] ========== End ==========
+[2026-07-09 22:00:56,561][INFO] 配置命令行...
+[2026-07-09 22:00:56,562][INFO] ✓ 注册表设置成功
+[2026-07-09 22:00:56,562][INFO] ========= Start =========
+[2026-07-09 22:00:56,592][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-09 22:00:56,593][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-09 22:00:56,594][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-09 22:01:06,837][INFO] 
+[2026-07-09 22:01:06,837][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-09 22:01:11,954][INFO] 执行命令:
+[2026-07-09 22:01:11,954][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-09 22:01:12,991][INFO] 发送信息至Progman...
+[2026-07-09 22:01:12,991][INFO] 获取窗口
+[2026-07-09 22:01:12,992][INFO] 未找到!
+[2026-07-09 22:01:26,253][INFO] 执行命令:
+[2026-07-09 22:01:26,253][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-09 22:01:27,255][INFO] 发送信息至Progman...
+[2026-07-09 22:01:27,256][INFO] 获取窗口
+[2026-07-09 22:01:27,256][INFO] 发现窗口,句柄592192
+[2026-07-09 22:01:30,336][INFO] 成功嵌入
+[2026-07-09 22:04:32,194][INFO] 
+[2026-07-09 22:04:32,194][INFO] 关闭中...
+[2026-07-09 22:04:33,305][INFO] ========== End ==========
+[2026-07-09 22:07:38,187][INFO] 配置命令行...
+[2026-07-09 22:07:38,188][INFO] ✓ 注册表设置成功
+[2026-07-09 22:07:38,188][INFO] ========= Start =========
+[2026-07-09 22:07:38,219][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-09 22:07:38,220][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-09 22:07:38,220][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-09 22:07:40,691][INFO] 设置exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+[2026-07-09 22:07:52,093][INFO] 执行命令:
+[2026-07-09 22:07:52,094][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "empty" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-09 22:07:53,095][INFO] 发送信息至Progman...
+[2026-07-09 22:07:53,095][INFO] 获取窗口
+[2026-07-09 22:07:53,095][INFO] 未找到!
+[2026-07-09 22:08:03,529][INFO] 
+[2026-07-09 22:08:03,529][INFO] 关闭中...
+[2026-07-09 22:08:17,259][INFO] 执行命令:
+[2026-07-09 22:08:17,259][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "empty" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-09 22:08:18,261][INFO] 发送信息至Progman...
+[2026-07-09 22:08:18,261][INFO] 获取窗口
+[2026-07-09 22:08:18,261][INFO] 未找到!
+[2026-07-10 17:18:59,286][INFO] ========== End ==========
+[2026-07-10 18:09:34,796][INFO] 配置命令行...
+[2026-07-10 18:09:34,798][INFO] ✓ 注册表设置成功
+[2026-07-10 18:09:34,798][INFO] ========= Start =========
+[2026-07-10 18:09:34,840][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:09:34,841][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:09:34,842][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:09:37,889][INFO] 设置exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+[2026-07-10 18:09:40,767][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 11468)
+[2026-07-10 18:09:43,938][INFO] 未找到exe的窗口: pcl.exe
+[2026-07-10 18:10:42,100][INFO] 设置视频壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-10 18:10:43,883][INFO] 执行命令:
+[2026-07-10 18:10:43,884][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:10:44,887][INFO] 发送信息至Progman...
+[2026-07-10 18:10:44,887][INFO] 获取窗口
+[2026-07-10 18:10:44,887][INFO] 发现窗口,句柄1314896
+[2026-07-10 18:10:49,765][INFO] 成功嵌入
+[2026-07-10 18:11:58,825][INFO] ========== End ==========
+[2026-07-10 18:12:04,026][INFO] 配置命令行...
+[2026-07-10 18:12:04,040][INFO] ✓ 注册表设置成功
+[2026-07-10 18:12:04,041][INFO] ========= Start =========
+[2026-07-10 18:12:04,095][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:12:04,096][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:12:04,097][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:12:06,649][INFO] 设置exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+[2026-07-10 18:12:08,554][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 17552)
+[2026-07-10 18:12:10,709][INFO] 找到窗口: 句柄=135432, 类名=HwndWrapper[pcl.exe;;422d8e2e-f628-4dc7-a1a5-f2aa6a1108f6], 标题=Plain Craft Launcher
+[2026-07-10 18:12:10,710][INFO] 发送信息至Progman...
+[2026-07-10 18:12:10,710][INFO] 获取窗口
+[2026-07-10 18:12:10,710][INFO] 发现窗口,句柄135432
+[2026-07-10 18:12:13,721][INFO] 成功嵌入
+[2026-07-10 18:12:15,511][INFO] 
+[2026-07-10 18:12:15,511][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:12:15,675][INFO] 
+[2026-07-10 18:12:15,675][INFO] 关闭中...
+[2026-07-10 18:12:18,358][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 14192)
+[2026-07-10 18:12:21,909][INFO] 找到窗口: 句柄=200960, 类名=HwndWrapper[pcl.exe;;d26cb344-38cd-4771-bcc3-5956943bf590], 标题=Plain Craft Launcher
+[2026-07-10 18:12:21,910][INFO] 发送信息至Progman...
+[2026-07-10 18:12:21,910][INFO] 获取窗口
+[2026-07-10 18:12:21,910][INFO] 发现窗口,句柄200960
+[2026-07-10 18:12:24,949][INFO] 成功嵌入
+[2026-07-10 18:13:06,539][INFO] 
+[2026-07-10 18:13:06,539][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:13:07,028][INFO] 
+[2026-07-10 18:13:07,028][INFO] 关闭中...
+[2026-07-10 18:13:07,627][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 30040)
+[2026-07-10 18:13:09,697][INFO] 找到窗口: 句柄=397562, 类名=HwndWrapper[pcl.exe;;a36e32cb-7637-4031-ac48-294d986996b9], 标题=Plain Craft Launcher
+[2026-07-10 18:13:09,698][INFO] 发送信息至Progman...
+[2026-07-10 18:13:09,699][INFO] 获取窗口
+[2026-07-10 18:13:09,699][INFO] 发现窗口,句柄397562
+[2026-07-10 18:13:12,708][INFO] 成功嵌入
+[2026-07-10 18:15:40,035][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 14576)
+[2026-07-10 18:15:42,185][INFO] 等待窗口出现... (1/5)
+[2026-07-10 18:15:43,785][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 20340)
+[2026-07-10 18:15:44,318][INFO] 等待窗口出现... (2/5)
+[2026-07-10 18:15:45,914][INFO] 等待窗口出现... (1/5)
+[2026-07-10 18:15:46,454][INFO] 等待窗口出现... (3/5)
+[2026-07-10 18:15:47,102][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 18184)
+[2026-07-10 18:15:48,042][INFO] 等待窗口出现... (2/5)
+[2026-07-10 18:15:48,584][INFO] 等待窗口出现... (4/5)
+[2026-07-10 18:15:48,616][INFO] 
+[2026-07-10 18:15:48,616][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:48,761][INFO] 
+[2026-07-10 18:15:48,761][INFO] 关闭中...
+[2026-07-10 18:15:49,060][INFO] 
+[2026-07-10 18:15:49,060][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:49,180][INFO] 
+[2026-07-10 18:15:49,192][INFO] 关闭中...
+[2026-07-10 18:15:49,229][INFO] 等待窗口出现... (1/5)
+[2026-07-10 18:15:49,313][INFO] 
+[2026-07-10 18:15:49,314][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:49,419][INFO] 
+[2026-07-10 18:15:49,420][INFO] 关闭中...
+[2026-07-10 18:15:49,530][INFO] 
+[2026-07-10 18:15:49,531][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:49,646][INFO] 
+[2026-07-10 18:15:49,646][INFO] 关闭中...
+[2026-07-10 18:15:49,753][INFO] 
+[2026-07-10 18:15:49,753][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:49,855][INFO] 
+[2026-07-10 18:15:49,855][INFO] 关闭中...
+[2026-07-10 18:15:49,960][INFO] 
+[2026-07-10 18:15:49,960][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:15:50,078][INFO] 
+[2026-07-10 18:15:50,100][INFO] 关闭中...
+[2026-07-10 18:15:50,187][INFO] 等待窗口出现... (3/5)
+[2026-07-10 18:15:50,724][INFO] 未找到exe的窗口: pcl.exe
+[2026-07-10 18:15:51,357][INFO] 等待窗口出现... (2/5)
+[2026-07-10 18:15:51,454][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 24252)
+[2026-07-10 18:15:52,266][INFO] 找到窗口: 句柄=463118, 类名=SplashScreen, 标题=应用程序正在打开，请稍候
+[2026-07-10 18:15:52,267][INFO] 发送信息至Progman...
+[2026-07-10 18:15:52,267][INFO] 获取窗口
+[2026-07-10 18:15:52,267][INFO] 发现窗口,句柄463118
+[2026-07-10 18:15:53,715][INFO] 找到窗口: 句柄=4525666, 类名=HwndWrapper[pcl.exe;;7fb9c28f-f4fe-4cdf-ae3d-eee9ba0424ef], 标题=Plain Craft Launcher
+[2026-07-10 18:15:53,715][INFO] 找到窗口: 句柄=4525666, 类名=HwndWrapper[pcl.exe;;7fb9c28f-f4fe-4cdf-ae3d-eee9ba0424ef], 标题=Plain Craft Launcher
+[2026-07-10 18:15:53,715][INFO] 发送信息至Progman...
+[2026-07-10 18:15:53,716][INFO] 发送信息至Progman...
+[2026-07-10 18:15:53,716][INFO] 获取窗口
+[2026-07-10 18:15:53,716][INFO] 获取窗口
+[2026-07-10 18:15:53,716][INFO] 发现窗口,句柄4525666
+[2026-07-10 18:15:53,716][INFO] 发现窗口,句柄4525666
+[2026-07-10 18:15:56,732][INFO] 成功嵌入
+[2026-07-10 18:15:56,732][INFO] 成功嵌入
+[2026-07-10 18:16:21,195][INFO] 
+[2026-07-10 18:16:21,195][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:16:21,307][INFO] 
+[2026-07-10 18:16:21,307][INFO] 关闭中...
+[2026-07-10 18:16:27,590][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 13612)
+[2026-07-10 18:16:29,636][INFO] 找到窗口: 句柄=725180, 类名=HwndWrapper[pcl.exe;;09819ef7-ba99-4a00-92a0-cbcaefa80d2b], 标题=Plain Craft Launcher
+[2026-07-10 18:16:29,636][INFO] 发送信息至Progman...
+[2026-07-10 18:16:29,636][INFO] 获取窗口
+[2026-07-10 18:16:29,636][INFO] 发现窗口,句柄725180
+[2026-07-10 18:16:32,643][INFO] 成功嵌入
+[2026-07-10 18:16:36,253][INFO] 
+[2026-07-10 18:16:36,253][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:16:36,364][INFO] 
+[2026-07-10 18:16:36,364][INFO] 关闭中...
+[2026-07-10 18:16:41,094][INFO] 设置视频壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-10 18:16:42,789][INFO] 执行命令:
+[2026-07-10 18:16:42,789][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:16:43,790][INFO] 发送信息至Progman...
+[2026-07-10 18:16:43,790][INFO] 获取窗口
+[2026-07-10 18:16:43,791][INFO] 发现窗口,句柄266980
+[2026-07-10 18:16:46,931][INFO] 成功嵌入
+[2026-07-10 18:16:52,972][INFO] 执行命令:
+[2026-07-10 18:16:52,972][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:16:53,974][INFO] 发送信息至Progman...
+[2026-07-10 18:16:53,975][INFO] 获取窗口
+[2026-07-10 18:16:53,975][INFO] 发现窗口,句柄33164702
+[2026-07-10 18:16:57,140][INFO] 成功嵌入
+[2026-07-10 18:18:21,177][INFO] 配置命令行...
+[2026-07-10 18:18:21,178][INFO] ✓ 注册表设置成功
+[2026-07-10 18:18:21,179][INFO] ========= Start =========
+[2026-07-10 18:18:21,210][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:18:21,211][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:18:21,212][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:18:26,588][INFO] 执行命令:
+[2026-07-10 18:18:26,588][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:18:27,590][INFO] 发送信息至Progman...
+[2026-07-10 18:18:27,590][INFO] 获取窗口
+[2026-07-10 18:18:27,590][INFO] 发现窗口,句柄7668378
+[2026-07-10 18:18:31,727][INFO] 成功嵌入
+[2026-07-10 18:18:37,113][INFO] 
+[2026-07-10 18:18:37,113][INFO] 关闭中...
+[2026-07-10 18:23:05,514][INFO] ========== End ==========
+[2026-07-10 18:23:09,284][INFO] 配置命令行...
+[2026-07-10 18:23:09,285][INFO] ✓ 注册表设置成功
+[2026-07-10 18:23:09,286][INFO] ========= Start =========
+[2026-07-10 18:23:09,317][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:23:09,318][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:23:09,319][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:23:16,095][INFO] 设置视频壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-10 18:23:17,784][INFO] 执行命令:
+[2026-07-10 18:23:17,784][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:23:18,787][INFO] 发送信息至Progman...
+[2026-07-10 18:23:18,787][INFO] 获取窗口
+[2026-07-10 18:23:18,787][INFO] 发现窗口,句柄2101328
+[2026-07-10 18:23:22,939][INFO] 成功嵌入
+[2026-07-10 18:23:23,252][INFO] 
+[2026-07-10 18:23:23,252][INFO] 关闭中...
+[2026-07-10 18:23:29,440][INFO] 设置exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe
+[2026-07-10 18:23:31,660][INFO] 启动exe壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\pcl.exe (PID: 26088)
+[2026-07-10 18:23:33,729][INFO] 找到窗口: 句柄=2034864, 类名=HwndWrapper[pcl.exe;;ce247e8c-dfa8-4aa8-a727-c34f3325a130], 标题=Plain Craft Launcher
+[2026-07-10 18:23:33,729][INFO] 发送信息至Progman...
+[2026-07-10 18:23:33,729][INFO] 获取窗口
+[2026-07-10 18:23:33,729][INFO] 发现窗口,句柄2034864
+[2026-07-10 18:23:36,983][INFO] 
+[2026-07-10 18:23:36,983][INFO] 关闭exe壁纸: pcl.exe
+[2026-07-10 18:23:37,090][INFO] 
+[2026-07-10 18:23:37,090][INFO] 关闭中...
+[2026-07-10 18:23:37,738][INFO] 成功嵌入
+[2026-07-10 18:23:39,110][INFO] ========== End ==========
+[2026-07-10 18:52:18,781][INFO] 配置命令行...
+[2026-07-10 18:52:18,782][INFO] ✓ 注册表设置成功
+[2026-07-10 18:52:18,782][INFO] ========= Start =========
+[2026-07-10 18:52:18,827][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:52:18,828][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:52:18,829][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:52:18,830][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww\wallpaper.json
+[2026-07-10 18:52:18,830][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本\wallpaper.json
+[2026-07-10 18:52:18,831][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (10)\wallpaper.json
+[2026-07-10 18:52:18,831][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (11)\wallpaper.json
+[2026-07-10 18:52:18,832][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (12)\wallpaper.json
+[2026-07-10 18:52:18,833][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (13)\wallpaper.json
+[2026-07-10 18:52:18,833][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (14)\wallpaper.json
+[2026-07-10 18:52:18,834][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (15)\wallpaper.json
+[2026-07-10 18:52:18,835][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (16)\wallpaper.json
+[2026-07-10 18:52:18,836][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (17)\wallpaper.json
+[2026-07-10 18:52:18,837][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (2)\wallpaper.json
+[2026-07-10 18:52:18,837][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (3)\wallpaper.json
+[2026-07-10 18:52:18,838][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (4)\wallpaper.json
+[2026-07-10 18:52:18,838][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (5)\wallpaper.json
+[2026-07-10 18:52:18,839][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (6)\wallpaper.json
+[2026-07-10 18:52:18,839][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (7)\wallpaper.json
+[2026-07-10 18:52:18,840][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (8)\wallpaper.json
+[2026-07-10 18:52:18,841][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (9)\wallpaper.json
+[2026-07-10 18:52:26,816][INFO] 设置视频壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-10 18:52:29,640][INFO] 执行命令:
+[2026-07-10 18:52:29,640][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:52:30,642][INFO] 发送信息至Progman...
+[2026-07-10 18:52:30,642][INFO] 获取窗口
+[2026-07-10 18:52:30,643][INFO] 发现窗口,句柄1906668
+[2026-07-10 18:52:33,078][INFO] 
+[2026-07-10 18:52:33,078][INFO] 关闭中...
+[2026-07-10 18:52:34,222][INFO] 
+[2026-07-10 18:52:34,222][INFO] 关闭中...
+[2026-07-10 18:52:34,804][INFO] 成功嵌入
+[2026-07-10 18:52:43,107][INFO] ========== End ==========
+[2026-07-10 18:52:46,308][INFO] 配置命令行...
+[2026-07-10 18:52:46,309][INFO] ✓ 注册表设置成功
+[2026-07-10 18:52:46,309][INFO] ========= Start =========
+[2026-07-10 18:52:46,341][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 18:52:46,342][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 18:52:46,342][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 18:52:46,343][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww\wallpaper.json
+[2026-07-10 18:52:46,343][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本\wallpaper.json
+[2026-07-10 18:52:46,344][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (10)\wallpaper.json
+[2026-07-10 18:52:46,344][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (11)\wallpaper.json
+[2026-07-10 18:52:46,344][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (12)\wallpaper.json
+[2026-07-10 18:52:46,345][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (13)\wallpaper.json
+[2026-07-10 18:52:46,345][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (14)\wallpaper.json
+[2026-07-10 18:52:46,346][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (15)\wallpaper.json
+[2026-07-10 18:52:46,346][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (16)\wallpaper.json
+[2026-07-10 18:52:46,347][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (17)\wallpaper.json
+[2026-07-10 18:52:46,347][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (2)\wallpaper.json
+[2026-07-10 18:52:46,347][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (3)\wallpaper.json
+[2026-07-10 18:52:46,348][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (4)\wallpaper.json
+[2026-07-10 18:52:46,348][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (5)\wallpaper.json
+[2026-07-10 18:52:46,349][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (6)\wallpaper.json
+[2026-07-10 18:52:46,349][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (7)\wallpaper.json
+[2026-07-10 18:52:46,350][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (8)\wallpaper.json
+[2026-07-10 18:52:46,350][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (9)\wallpaper.json
+[2026-07-10 18:53:18,491][INFO] 执行命令:
+[2026-07-10 18:53:18,491][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 18:53:19,494][INFO] 发送信息至Progman...
+[2026-07-10 18:53:19,494][INFO] 获取窗口
+[2026-07-10 18:53:19,494][INFO] 发现窗口,句柄3476990
+[2026-07-10 18:53:23,658][INFO] 成功嵌入
+[2026-07-10 18:54:39,161][INFO] ========== End ==========
+[2026-07-10 20:40:39,325][INFO] 配置命令行...
+[2026-07-10 20:40:39,329][INFO] ✓ 注册表设置成功
+[2026-07-10 20:40:39,331][INFO] ========= Start =========
+[2026-07-10 20:40:39,443][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 20:40:39,443][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 20:40:39,447][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 20:40:39,448][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww\wallpaper.json
+[2026-07-10 20:40:39,449][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本\wallpaper.json
+[2026-07-10 20:40:39,450][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (10)\wallpaper.json
+[2026-07-10 20:40:39,450][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (11)\wallpaper.json
+[2026-07-10 20:40:39,452][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (12)\wallpaper.json
+[2026-07-10 20:40:39,453][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (13)\wallpaper.json
+[2026-07-10 20:40:39,454][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (14)\wallpaper.json
+[2026-07-10 20:40:39,455][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (15)\wallpaper.json
+[2026-07-10 20:40:39,456][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (16)\wallpaper.json
+[2026-07-10 20:40:39,456][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (17)\wallpaper.json
+[2026-07-10 20:40:39,457][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (2)\wallpaper.json
+[2026-07-10 20:40:39,458][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (3)\wallpaper.json
+[2026-07-10 20:40:39,458][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (4)\wallpaper.json
+[2026-07-10 20:40:39,459][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (5)\wallpaper.json
+[2026-07-10 20:40:39,470][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (6)\wallpaper.json
+[2026-07-10 20:40:39,471][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (7)\wallpaper.json
+[2026-07-10 20:40:39,472][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (8)\wallpaper.json
+[2026-07-10 20:40:39,472][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (9)\wallpaper.json
+[2026-07-10 21:20:56,606][INFO] 配置命令行...
+[2026-07-10 21:20:56,612][INFO] ✓ 注册表设置成功
+[2026-07-10 21:20:56,613][INFO] ========= Start =========
+[2026-07-10 21:20:56,682][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 21:20:56,683][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 21:20:56,683][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 21:20:56,684][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww\wallpaper.json
+[2026-07-10 21:20:56,685][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本\wallpaper.json
+[2026-07-10 21:20:56,685][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (10)\wallpaper.json
+[2026-07-10 21:20:56,687][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (11)\wallpaper.json
+[2026-07-10 21:20:56,689][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (12)\wallpaper.json
+[2026-07-10 21:20:56,690][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (13)\wallpaper.json
+[2026-07-10 21:20:56,690][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (14)\wallpaper.json
+[2026-07-10 21:20:56,691][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (15)\wallpaper.json
+[2026-07-10 21:20:56,691][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (16)\wallpaper.json
+[2026-07-10 21:20:56,692][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (17)\wallpaper.json
+[2026-07-10 21:20:56,692][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (2)\wallpaper.json
+[2026-07-10 21:20:56,693][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (3)\wallpaper.json
+[2026-07-10 21:20:56,693][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (4)\wallpaper.json
+[2026-07-10 21:20:56,693][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (5)\wallpaper.json
+[2026-07-10 21:20:56,694][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (6)\wallpaper.json
+[2026-07-10 21:20:56,704][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (7)\wallpaper.json
+[2026-07-10 21:20:56,705][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (8)\wallpaper.json
+[2026-07-10 21:20:56,705][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (9)\wallpaper.json
+[2026-07-10 21:24:10,408][INFO] 配置命令行...
+[2026-07-10 21:24:10,424][INFO] ✓ 注册表设置成功
+[2026-07-10 21:24:10,425][INFO] ========= Start =========
+[2026-07-10 21:24:10,490][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 21:24:10,491][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 21:24:10,492][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp-exe\wallpaper.json
+[2026-07-10 21:24:10,493][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww\wallpaper.json
+[2026-07-10 21:24:10,494][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本\wallpaper.json
+[2026-07-10 21:24:10,495][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (10)\wallpaper.json
+[2026-07-10 21:24:10,495][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (11)\wallpaper.json
+[2026-07-10 21:24:10,496][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (12)\wallpaper.json
+[2026-07-10 21:24:10,496][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (13)\wallpaper.json
+[2026-07-10 21:24:10,497][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (14)\wallpaper.json
+[2026-07-10 21:24:10,497][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (15)\wallpaper.json
+[2026-07-10 21:24:10,498][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (16)\wallpaper.json
+[2026-07-10 21:24:10,498][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (17)\wallpaper.json
+[2026-07-10 21:24:10,499][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (2)\wallpaper.json
+[2026-07-10 21:24:10,499][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (3)\wallpaper.json
+[2026-07-10 21:24:10,499][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (4)\wallpaper.json
+[2026-07-10 21:24:10,500][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (5)\wallpaper.json
+[2026-07-10 21:24:10,500][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (6)\wallpaper.json
+[2026-07-10 21:24:10,501][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (7)\wallpaper.json
+[2026-07-10 21:24:10,501][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (8)\wallpaper.json
+[2026-07-10 21:24:10,502][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\ww - 副本 (9)\wallpaper.json
+[2026-07-10 21:24:14,741][INFO] ========== End ==========
+[2026-07-10 21:25:20,694][INFO] 配置命令行...
+[2026-07-10 21:25:20,697][INFO] ✓ 注册表设置成功
+[2026-07-10 21:25:20,698][INFO] ========= Start =========
+[2026-07-10 21:25:20,822][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-10 21:25:20,823][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-10 21:25:24,043][INFO] ========== End ==========
+[2026-07-11 20:40:57,091][INFO] 配置命令行...
+[2026-07-11 20:40:57,095][INFO] ✓ 注册表设置成功
+[2026-07-11 20:40:57,097][INFO] ========= Start =========
+[2026-07-11 20:40:57,247][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-11 20:40:57,249][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-11 20:40:58,563][INFO] ========== End ==========
+[2026-07-11 20:42:44,216][INFO] 配置命令行...
+[2026-07-11 20:42:44,218][INFO] ✓ 注册表设置成功
+[2026-07-11 20:42:44,218][INFO] ========= Start =========
+[2026-07-11 20:42:44,252][INFO] 扫描所有壁纸:
+[2026-07-11 20:42:44,252][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-11 20:42:44,253][INFO] 扫描所有壁纸:
+[2026-07-11 20:42:44,253][INFO] C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-11 20:42:45,439][INFO] ========== End ==========
+[2026-07-11 20:43:04,158][INFO] 配置命令行...
+[2026-07-11 20:43:04,159][INFO] ✓ 注册表设置成功
+[2026-07-11 20:43:04,159][INFO] ========= Start =========
+[2026-07-11 20:43:04,185][INFO] 扫描壁纸:C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-11 20:43:04,186][INFO] 扫描壁纸:C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-11 20:43:05,292][INFO] ========== End ==========
+[2026-07-15 20:05:32,552][INFO] 配置命令行...
+[2026-07-15 20:05:32,555][INFO] ✓ 注册表设置成功
+[2026-07-15 20:05:32,556][INFO] ========= Start =========
+[2026-07-15 20:05:32,666][INFO] 扫描壁纸:C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.json
+[2026-07-15 20:05:32,668][INFO] 扫描壁纸:C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\wp\wallpaper.json
+[2026-07-15 20:05:35,126][INFO] 设置视频壁纸: C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4
+[2026-07-15 20:05:37,401][INFO] 执行命令:
+[2026-07-15 20:05:37,401][INFO] "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\ffmpeg\bin\ffplay.exe" "C:\Users\Administrator\PycharmProjects\WallpaperEngineX\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-15 20:05:37,417][INFO] ffplay进程已启动, PID: 1692
+[2026-07-15 20:05:38,418][INFO] 尝试查找SDL_app窗口 (attempt 1/3)
+[2026-07-15 20:05:38,418][INFO] 发送信息至Progman...
+[2026-07-15 20:05:38,523][INFO] 获取窗口
+[2026-07-15 20:05:38,523][INFO] 发现窗口,句柄592066
+[2026-07-15 20:05:42,584][INFO] 成功嵌入
+[2026-07-15 20:05:42,585][INFO] SDL_app嵌入成功, 句柄: 592066
+[2026-07-15 20:22:45,848][INFO] 
+[2026-07-15 20:22:45,848][INFO] 关闭中...

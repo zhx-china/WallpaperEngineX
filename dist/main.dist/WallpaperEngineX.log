@@ -1,0 +1,23 @@
+[2026-07-10 21:50:59,458][INFO] 配置命令行...
+[2026-07-10 21:50:59,459][INFO] ✓ 注册表设置成功
+[2026-07-10 21:50:59,460][INFO] ========= Start =========
+[2026-07-10 21:50:59,506][INFO] C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\wallpapers\w\wallpaper.json
+[2026-07-10 21:50:59,507][INFO] C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\wallpapers\wp\wallpaper.json
+[2026-07-10 21:51:01,838][INFO] 设置视频壁纸: C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\wallpapers\w\wallpaper.mp4
+[2026-07-10 21:51:03,583][INFO] 执行命令: "C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\ffmpeg\bin\ffplay.exe" "C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 21:51:03,583][ERROR] 启动ffplay失败: [WinError 2] 系统找不到指定的文件。
+[2026-07-10 21:54:25,086][INFO] 执行命令: "C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\ffmpeg\bin\ffplay.exe" "C:\Users\ADMINI~1\PYCHAR~2\WALLPA~2\dist\MAIN~1.DIS\wallpapers\w\wallpaper.mp4" -window_title WallpaperEngineX -noborder -fs -loop 0 -an
+[2026-07-10 21:54:25,091][INFO] ffplay进程已启动, PID: 25024
+[2026-07-10 21:54:26,092][INFO] 尝试查找SDL_app窗口 (attempt 1/3)
+[2026-07-10 21:54:26,093][INFO] 发送信息至Progman...
+[2026-07-10 21:54:26,093][INFO] 获取窗口
+[2026-07-10 21:54:26,093][INFO] 发现窗口,句柄=2169510
+[2026-07-10 21:54:29,251][INFO] ========== End ==========
+[2026-07-10 21:54:30,195][INFO] 成功嵌入
+[2026-07-10 21:54:30,196][INFO] SDL_app嵌入成功, 句柄: 2169510
+[2026-07-10 23:21:29,085][INFO] 配置命令行...
+[2026-07-10 23:21:29,101][INFO] ✓ 注册表设置成功
+[2026-07-10 23:21:29,105][INFO] ========= Start =========
+[2026-07-10 23:21:29,250][INFO] wallpapers\w\wallpaper.json
+[2026-07-10 23:21:29,252][INFO] wallpapers\wp\wallpaper.json
+[2026-07-10 23:21:33,033][INFO] ========== End ==========
