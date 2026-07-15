@@ -1,7 +1,10 @@
 import ctypes.wintypes
 import time
+import logging
 import win32gui
 import win32con
+
+logger = logging.getLogger('move2wall')
 
 # Windows API 定义
 user32 = ctypes.windll.user32

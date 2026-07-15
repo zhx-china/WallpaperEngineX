@@ -1,15 +1,18 @@
 import winreg
 import os
+import sys
+from pathlib import Path
 
-with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\WallpaperEngineX", 0, winreg.KEY_READ) as key:
-    self_path = winreg.QueryValueEx(key, "selfPath")[0]
-    os.chdir(self_path)
+try:
+    with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\WallpaperEngineX", 0, winreg.KEY_READ) as key:
+        self_path = winreg.QueryValueEx(key, "selfPath")[0]
+        os.chdir(self_path)
+except Exception:
+    os.chdir(str(Path(sys.executable).parent))
 
 from PySide6.QtWidgets import *
 from PySide6.QtCore import *
 from PySide6.QtGui import *
-
-import sys
 
 import logging
 
@@ -96,7 +99,7 @@ class Wallpaper(QPushButton):
         wallpaper_path = settings.wallpaper_path
         json_path = os.path.join(wallpaper_path, self.wallpaper_folder, "wallpaper.json")
 
-        print(json_path + "\n")
+        print("扫描壁纸:" + json_path + "\n")
         try:
             with open(json_path, "r", encoding="utf-8") as file:
                 self.json_data = json.load(file)
@@ -224,7 +227,17 @@ class ZWallpaperEngine(QMainWindow):
         self.FfplayRadioButtonOp = QRadioButton()
         self.SelfRunLabel = QLabel()
         self.FfplayLabel = QLabel()
+        self.SoundLabel = QLabel()
+        self.SoundToggle = QPushButton()
+        self.SoundFrame = QFrame()
+        self.SoundBox = QHBoxLayout()
 
+        self.VolumeLabel = QLabel()
+        self.VolumeSlider = QSlider()
+        self.VolumeValue = QLabel()
+        self.VolumeFrame = QFrame()
+        self.VolumeBox = QHBoxLayout()
+ 
         self.init_ui()
 
     def init_ui(self):
@@ -350,6 +363,47 @@ class ZWallpaperEngine(QMainWindow):
         self.FfplayBox.addWidget(self.FfplayRadioButtonOp)
         self.FfplayBox.addStretch()
 
+        # 声音设置
+        self.SoundFrame.setStyleSheet(f"""
+            background-color: #{colors.GetColor("bac")};
+            border: 10px solid #{colors.GetColor("con")};
+            border-radius: 10px;
+            margin: 10px;
+        """)
+        self.SoundLabel.setText("声音")
+        self.SoundToggle.setCheckable(True)
+        self.SoundToggle.setChecked(settings.sound)
+        self.SoundToggle.setFixedSize(44, 24)
+        self.SoundToggle.setCursor(Qt.PointingHandCursor)
+        self._set_toggle_style(self.SoundToggle, settings.sound)
+        self.SoundFrame.setLayout(self.SoundBox)
+        self.SoundBox.addWidget(self.SoundLabel)
+        self.SoundBox.addStretch()
+        self.SoundBox.addWidget(self.SoundToggle)
+        self.SettingsBox.addWidget(self.SoundFrame)
+
+        # 音量设置
+        self.VolumeFrame.setStyleSheet(f"""
+            background-color: #{colors.GetColor("bac")};
+            border: 10px solid #{colors.GetColor("con")};
+            border-radius: 10px;
+            margin: 10px;
+        """)
+        self.VolumeLabel.setText("音量")
+        self.VolumeSlider.setOrientation(Qt.Horizontal)
+        self.VolumeSlider.setRange(0, 100)
+        self.VolumeSlider.setValue(settings.volume)
+        self.VolumeSlider.setEnabled(settings.sound)
+        self.VolumeSlider.setFixedHeight(20)
+        self.VolumeValue.setText(str(settings.volume))
+        self.VolumeValue.setFixedWidth(30)
+        self.VolumeValue.setAlignment(Qt.AlignRight)
+        self.VolumeFrame.setLayout(self.VolumeBox)
+        self.VolumeBox.addWidget(self.VolumeLabel)
+        self.VolumeBox.addWidget(self.VolumeSlider)
+        self.VolumeBox.addWidget(self.VolumeValue)
+        self.SettingsBox.addWidget(self.VolumeFrame)
+
         self.SettingsBox.addStretch()
 
         # 内容区域
@@ -425,6 +479,37 @@ class ZWallpaperEngine(QMainWindow):
         self.FfplayRadioButtonFf.clicked.connect(lambda: self.SetWallpaperLaunch(True))
 
         self.SelfRunRadioButton.clicked.connect(lambda: self.SetSelfRun(self.SelfRunRadioButton.isChecked()))
+
+        self.SoundToggle.clicked.connect(self._on_sound_toggle)
+        self.VolumeSlider.valueChanged.connect(self._on_volume_change)
+
+    def _set_toggle_style(self, btn, on):
+        if on:
+            btn.setStyleSheet("""
+                QPushButton {
+                    background-color: #2d7d46;
+                    border-radius: 12px;
+                    border: none;
+                }
+            """)
+        else:
+            btn.setStyleSheet("""
+                QPushButton {
+                    background-color: #555;
+                    border-radius: 12px;
+                    border: none;
+                }
+            """)
+
+    def _on_sound_toggle(self):
+        checked = self.SoundToggle.isChecked()
+        self._set_toggle_style(self.SoundToggle, checked)
+        self.VolumeSlider.setEnabled(checked)
+        settings.SetVal("sound", checked)
+
+    def _on_volume_change(self, value):
+        self.VolumeValue.setText(str(value))
+        settings.SetVal("volume", value)
 
     def SetWallpaperLaunch(self, isFf):
         settings.SetVal("ffplay", isFf)

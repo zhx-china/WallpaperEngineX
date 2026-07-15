@@ -21,9 +21,13 @@ except Exception as e:
     print(f"读取注册表失败: {e}")
     selfRun = False
 
-with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\WallpaperEngineX", 0, winreg.KEY_READ) as key:
-    self_path = winreg.QueryValueEx(key, "selfPath")[0]
-    os.chdir(self_path)
+# 获取程序路径
+try:
+    with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\WallpaperEngineX", 0, winreg.KEY_READ) as key:
+        self_path = winreg.QueryValueEx(key, "selfPath")[0]
+        os.chdir(self_path)
+except Exception:
+    pass
 
 # 使用用户启动文件夹（不需要管理员权限）
 startup_folder = os.path.join(os.getenv('APPDATA'), r'Microsoft\Windows\Start Menu\Programs\Startup')

@@ -1,13 +1,18 @@
 # settings.py
 from configparser import ConfigParser
 import os
+import sys
 from pathlib import Path
 
 config = ConfigParser()
 config_file = "config.ini"
 
 # 获取程序目录
-program_dir = Path(__file__).parent.absolute()
+_is_exe = not sys.executable.lower().endswith(('python.exe', 'python3.exe'))
+if _is_exe:
+    program_dir = Path(sys.executable).parent.absolute()
+else:
+    program_dir = Path(__file__).parent.absolute()
 
 # 默认值
 selfRun = False
